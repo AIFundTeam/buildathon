@@ -54,3 +54,5 @@
 - Authenticate to Gmail IMAP API
 - Show at least three descriptive clusters
 - Enable one-click archive per cluster
+
+## Olumide Adekunle B.
